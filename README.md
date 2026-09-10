@@ -11,3 +11,5 @@
 
 ## Lesson 3
 - [Functions](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/06-functions.ipynb)
+- [Lists and dictionaries](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/07-lists-and-dictionaries.ipynb)
+- [Exercises](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/08-class-3-exercises.ipynb)

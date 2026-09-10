@@ -8,3 +8,6 @@
 ## Lesson 2
 - [Control flow](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/04-control-flow.ipynb)
 - [Strings](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/05-strings.ipynb)
+
+## Lesson 3
+- [Functions](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/06-functions.ipynb)

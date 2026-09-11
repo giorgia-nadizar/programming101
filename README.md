@@ -13,3 +13,7 @@
 - [Functions](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/06-functions.ipynb)
 - [Lists and dictionaries](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/07-lists-and-dictionaries.ipynb)
 - [Exercises](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/08-class-3-exercises.ipynb)
+
+## Lesson 4
+- [Implementation workshop](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/09-implementation-workshop.ipynb)
+- [Objects](https://colab.research.google.com/github/giorgia-nadizar/programming101/blob/main/10-classes-and-objects.ipynb)
